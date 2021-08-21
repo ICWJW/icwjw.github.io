@@ -1,0 +1,30 @@
+国内音频流媒体平台Downloader（下载器）、Decrypt Tools（流媒体平台加密文件解密），签到打卡
+Downloader：
+
+Web：
+无损生活：https://flac.life/
+摩声：http://moresound.tk/music/ （需要账号登入）
+http://music.moresound.tk/listentime/ （刷听歌时长）
+https://163.wusuyu.com/ （同上）
+果核音乐：https://music.ghpym.com/
+音乐助手：https://music.hwkxk.cf/
+六音网站：https://tools.sixyin.com/（网易云刷听歌时长）
+
+Application：
+果核剥壳：https://www.ghpym.com/?s=%E9%9F%B3%E4%B9%90 （pj音乐软件总集）
+Mobile:
+五音助手：https://www.sixyin.com/tag/%e4%ba%94%e9%9f%b3%e5%8a%a9%e6%89%8b/
+歌词适配：
+wx同名公众号下载
+
+Windows：
+Music Downloader UI:https://github.com/NiTian1207/Music-Downloader-UI/releases
+
+Python下载工具（全操作平台适用）
+Github：https://github.com/CharlesPikachu/musicdl
+
+Decrypt Tools（加密格式解密工具）[均支持]：
+Web：
+github作者源码：https://github.com/ix64/unlock-music
+网站：https://unlock-music-ix.netlify.app/
+六音网站：https://tools.sixyin.com/
