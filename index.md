@@ -1,5 +1,7 @@
 # welcome
 
+[£](https://raw.githubusercontent.com/ICWJW/icwjw.github.io/gh-pages/README.md)
+
 弗洛克：“我们…都会没命吧？”
 
 埃尔文：“是的。”
