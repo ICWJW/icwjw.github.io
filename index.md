@@ -4,9 +4,10 @@
 [BV1vq4y1n7tg](http://b23.tv/gePwMf)
 
 ------
-# website
+# date storage
 + [wormhole（暂存洞）](https://wormhole.app/?utm_source=homescreen)
-
++ [白熊图床](https://pic.baixiongz.com/)
++ [安迪云盘](https://pan.adycloud.com/home?path=%2F)
 
 # music
 + [dl](https://raw.githubusercontent.com/ICWJW/icwjw.github.io/gh-pages/book/music/dl)
