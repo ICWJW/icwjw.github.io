@@ -42,22 +42,6 @@
       </tags>
   </entry>
   <entry>
-    <title>「建议」屏蔽MIUI云扫描和上传已安装应用列表</title>
-    <url>/2023/06/25/Fuck-cnROMs/</url>
-    <content><![CDATA[<h2 id="屏蔽MIUI云扫描和上传已安装应用列表"><a href="#屏蔽MIUI云扫描和上传已安装应用列表" class="headerlink" title="屏蔽MIUI云扫描和上传已安装应用列表"></a>屏蔽MIUI云扫描和上传已安装应用列表</h2><ul>
-<li>常用∶hosts (<a class="link"   href="https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/MIhosts" >https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/MIhosts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</li>
-<li>进阶∶hosts (<a class="link"   href="https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/Fhosts" >https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/Fhosts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</li>
-</ul>
-<p>任意DNS或者广告屏蔽软件都可以直接订阅改host</p>
-<p>或直接修改手机 &#x2F;etc&#x2F;hosts 文件</p>
-]]></content>
-      <tags>
-        <tag>系统</tag>
-        <tag>小米</tag>
-        <tag>恶心操作</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>日本音乐家坂本龙一逝世 🕯🕯🕯</title>
     <url>/2023/04/02/Diary-Sakamoto&#39;death/</url>
     <content><![CDATA[<blockquote>
@@ -98,22 +82,19 @@
       </tags>
   </entry>
   <entry>
-    <title>「项目分享」厉害的项目</title>
-    <url>/2023/06/25/Program-Awsome/</url>
-    <content><![CDATA[<ul>
-<li><a class="link"   href="https://github.com/geektcp/Namjagbarwa-wow" >Namjagbarwa-wow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：开源魔兽世界项目<ul>
-<li>开源的 60 版本魔兽世界服务端</li>
-<li>支持部署在 CentOS6.X 或者 CentOS7.x</li>
-<li>支持创建机器人</li>
+    <title>「建议」屏蔽MIUI云扫描和上传已安装应用列表</title>
+    <url>/2023/06/25/Fuck-cnROMs/</url>
+    <content><![CDATA[<h2 id="屏蔽MIUI云扫描和上传已安装应用列表"><a href="#屏蔽MIUI云扫描和上传已安装应用列表" class="headerlink" title="屏蔽MIUI云扫描和上传已安装应用列表"></a>屏蔽MIUI云扫描和上传已安装应用列表</h2><ul>
+<li>常用∶hosts (<a class="link"   href="https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/MIhosts" >https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/MIhosts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</li>
+<li>进阶∶hosts (<a class="link"   href="https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/Fhosts" >https://raw.githubusercontent.com/LoopDns/Fuck-you-MIUI/main/Fhosts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</li>
 </ul>
-</li>
-<li><a class="link"   href="https://github.com/ClassmateLin/dm-ticket" >大麦网自动购票 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/yuliskov/SmartTubeNext" >SmartTubeNext <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：开源免费的 Android 电视 APP，能自动跳过广告、不用谷歌服务、支持用户登录、最高支持 8k 60fps HDR。</li>
-</ul>
+<p>任意DNS或者广告屏蔽软件都可以直接订阅改host</p>
+<p>或直接修改手机 &#x2F;etc&#x2F;hosts 文件</p>
 ]]></content>
       <tags>
-        <tag>编程</tag>
-        <tag>项目</tag>
+        <tag>系统</tag>
+        <tag>小米</tag>
+        <tag>恶心操作</tag>
       </tags>
   </entry>
   <entry>
@@ -328,17 +309,22 @@
       </tags>
   </entry>
   <entry>
-    <title>「编程工具」辅助器和小工具</title>
-    <url>/2023/06/08/Program-helperTools/</url>
+    <title>「项目分享」厉害的项目</title>
+    <url>/2023/06/25/Program-Awsome/</url>
     <content><![CDATA[<ul>
-<li><a class="link"   href="https://github.com/moul/assh" >assh (Advanced SSH Config) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 是一款高级 SSH 配置工具，旨在让 SSH 客户端更加智能。assh 与ssh、scp、rsync、git 无缝兼容，增加了对正则表达式、别名、网关、动态主机名、graphviz、JSON、YAML 的支持。</li>
-<li><a class="link"   href="https://github.com/lycheeverse/lychee" >lychee <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 一个基于Rust编写的高效死链接检查工具，可以在 Markdown、HTML、reStructuredText等文件中查找损坏的 URL 。</li>
-<li><a class="link"   href="https://github.com/moonD4rk/HackBrowserData" >HackBrowserData <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：浏览器数据导出工具，可以明文导出密码，cookie，书签和历史记录，扩展列表等。</li>
+<li><a class="link"   href="https://github.com/geektcp/Namjagbarwa-wow" >Namjagbarwa-wow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：开源魔兽世界项目<ul>
+<li>开源的 60 版本魔兽世界服务端</li>
+<li>支持部署在 CentOS6.X 或者 CentOS7.x</li>
+<li>支持创建机器人</li>
+</ul>
+</li>
+<li><a class="link"   href="https://github.com/ClassmateLin/dm-ticket" >大麦网自动购票 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/yuliskov/SmartTubeNext" >SmartTubeNext <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：开源免费的 Android 电视 APP，能自动跳过广告、不用谷歌服务、支持用户登录、最高支持 8k 60fps HDR。</li>
 </ul>
 ]]></content>
       <tags>
         <tag>编程</tag>
-        <tag>工具</tag>
+        <tag>项目</tag>
       </tags>
   </entry>
   <entry>
@@ -389,22 +375,6 @@
 <li><a class="link"   href="https://apad.pro/dns-doh/" >https://apad.pro/dns-doh/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ul>
 ]]></content>
-      <tags>
-        <tag>分享</tag>
-        <tag>网络</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「分享」破限速锁频段</title>
-    <url>/2023/04/02/Skill-Hack-Cellular-SpeedLimit/</url>
-    <content><![CDATA[<h1 id="中国电信的4G基站是B1-x2F-B3-x2F-B5。"><a href="#中国电信的4G基站是B1-x2F-B3-x2F-B5。" class="headerlink" title="中国电信的4G基站是B1&#x2F;B3&#x2F;B5。"></a>中国电信的4G基站是B1&#x2F;B3&#x2F;B5。</h1><p>中国电信的4G基站现在分为800M&#x2F;1800M&#x2F;2100M三种。其中800M属于Band5,频谱带宽是5M,频点2452,现网最大下载速度大概在35Mbps左右;1800M属于Band3,频谱带宽15M(极少20M配置)，频点1825(1850),现网最大下载速度大概可以达到70-80Mbps左右;2100M属于Band1,频谱带宽是20M,频点100,现在最大下载速度大概在120Mbps左右。</p>
-<p>总体来看，电信下载速度最快的是Band1的4G基站。但是由于高频无线信号的绕射能力差，覆盖范围相对比较小，Band5的4G基站的深度覆盖是最好的。</p>
-<hr>
-<h1 id="中国联通的4G基站是B1-x2F-B3-x2F-B8。"><a href="#中国联通的4G基站是B1-x2F-B3-x2F-B8。" class="headerlink" title="中国联通的4G基站是B1&#x2F;B3&#x2F;B8。"></a>中国联通的4G基站是B1&#x2F;B3&#x2F;B8。</h1><p>中国联通的4G基站现在分为900M&#x2F;1800M&#x2F;2100M三种。其中900M基站现在还没有确定，可能在部分区域上3M的，也可能是上5M的,5M下载速度基本和电信的800M差别不大;联通的1800M有30M的无线频谱，有20M的1650和10M的1506 两个频点的L1800基站配置；联通的2100M部署的4G基站是20M的 频点400，或者是10M(或者15M)的375频点的LTE基站。</p>
-<p>总体上来看，电信和联通下载速度最快的是Band1的100&#x2F;400频点的LTE基站，室外路面下载最快的是联通Band3的1650频点的LTE基站(电信的1850频点的LTE基站)，其次是电信Band3的1825频点的LTE基站。至于电信的Band5基站以及联通的Band8基站，深度覆盖还不错，下载速度就不太快了</p>
-<hr>
-<h1 id="移动卡锁b1和b3即可"><a href="#移动卡锁b1和b3即可" class="headerlink" title="移动卡锁b1和b3即可"></a>移动卡锁b1和b3即可</h1><hr>
-<div class="highlight-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="string">小米手机输入</span> <span class="string">*#*#3646633##</span></span><br><span class="line"></span><br><span class="line"><span class="string">vivo手机输入</span> <span class="string">*#*#9955#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">vivo</span> <span class="string">5G版</span> <span class="string">输入</span> <span class="string">*#*#2020#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">三星手机输入</span> <span class="string">*#0011#</span></span><br><span class="line"></span><br><span class="line"><span class="number">360</span><span class="string">手机输入</span> <span class="string">*20121220#</span></span><br><span class="line"></span><br><span class="line"><span class="string">魅族手机</span> <span class="string">*#*#3838664#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">NetworkState要输入密码的直接输入IMEI的后六位数即可（vivo）</span></span><br><span class="line"></span><br><span class="line"><span class="string">无需ROOT就可以锁频段</span></span><br><span class="line"><span class="string">注:此方法对物联卡没有任何作用!</span></span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>分享</tag>
         <tag>网络</tag>
@@ -2158,224 +2128,33 @@
       </tags>
   </entry>
   <entry>
-    <title>「教程」搭建个人博客</title>
-    <url>/2023/04/02/Teach-how-to-build-a-blog/</url>
-    <content><![CDATA[<h1 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h1><ol>
-<li>下载链接： <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">http://nodejs.cn/download/</span><br></pre></td></tr></table></figure></div></li>
-<li>配置环境变量。</li>
-</ol>
-<h1 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h1><ol>
-<li>下载链接： <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://git-scm.com/</span><br></pre></td></tr></table></figure></div></li>
-<li>检验安装： 打开桌面上的快捷方式  <code>Git Bash</code> ，顺序输入下面的命令：</li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
-
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
-
-<h1 id="安装-cnpm"><a href="#安装-cnpm" class="headerlink" title="安装 cnpm"></a>安装 cnpm</h1><ol>
-<li><p>下载地址：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>检查  <code>cnpm</code>  安装：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm -v</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h1 id="安装-hexo"><a href="#安装-hexo" class="headerlink" title="安装 hexo"></a>安装 hexo</h1><ol>
-<li>下载地址：<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-cli -g</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h1 id="博客本地部署"><a href="#博客本地部署" class="headerlink" title="博客本地部署"></a>博客本地部署</h1><ol>
-<li><p>自选位置新建一个文件夹，比如  <code>Blog</code> ，右键鼠标选择  <code>Git Bash here</code> ，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>【可选】当遇到  <code>INFO Install dependencies</code>  但等待许久没有反应，按键盘  <code>Ctrl + C</code>  结束命令，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>完成后，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>鼠标选中给出的网址，然后右键鼠标 <code>Copy</code>。不能使用键盘上的 <code>Ctrl + C</code>，这会终止服务。一般可以成功打开默认主题。</p>
-</li>
-<li><p>【可选】当浏览器不能打开网址时：</p>
-<ol>
-<li>显示端口出错（选其他端口，如  <code>5000</code>  ）： <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s -p 5000</span><br></pre></td></tr></table></figure></div></li>
-<li>Windows 的功能没有开启：控制面板 -&gt; 程序 -&gt; 程序和功能 -&gt; 启用或关闭 Windows 功能 -&gt; 勾选  <code>Internet Information Services</code>  -&gt; 确定。</li>
-</ol>
-</li>
-</ol>
-<h1 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h1><ol>
-<li><p>打开 Hexo 主题商店：</p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://hexo.io/themes/](https://hexo.io/themes/</span><br></pre></td></tr></table></figure></div>
-<p>点击主题，找到带有 <code>Github</code> 字眼的链接。</p>
-</li>
-<li><p>下载主题</p>
-<ol>
-<li>HTTPS 链接：点击  <code>&lt;&gt;Code</code>  ，  <code>Local</code>  ，  <code>HTTPS</code>  ，复制链接。回到 <code>Blog</code> 文件夹，  <code>Git Bash here</code>  ，输入 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> 复制的地址 themes/主题名字</span><br></pre></td></tr></table></figure></div></li>
-<li>ZIP 下载：登录 Github 账号，点击  <code>&lt;&gt;Code</code>  ，  <code>Local</code>  ，  <code>Download ZIP</code>  。回到  <code>Blog</code>  下面的  <code>themes</code>  的文件夹，解压下载的 ZIP，解压后的文件夹重命名为 <code>主题名字</code>。</li>
-</ol>
-</li>
-<li><p>回到 <code>Blog\_config.yml</code> 文件，搜索 <code>theme:</code>，将后面的 <code>landspace</code> 改为你刚才重命名的 <code>主题名字</code>。</p>
-</li>
-<li><p>【可选】打开 <code>Blog\_config.yml</code> 文件，搜索 <code>theme:</code>，将后面的 <code>language:</code> 后面的 <code>en</code> 改为 <code>zh-CN</code> 即可设置为中文。</p>
-</li>
-<li><p>检验主题，回到 <code>Blog</code>，右键鼠标选择 <code>Git Bash here</code>，输入下面的命令：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>鼠标选中给出的网址，然后右键鼠标  <code>Copy</code> 。不能使用键盘上的  <code>Ctrl + C</code>  ，这会终止服务。一般可以成功打开刚安装好的主题。</p>
-</li>
-</ol>
-<h1 id="远程部署"><a href="#远程部署" class="headerlink" title="远程部署"></a>远程部署</h1><ol>
-<li><p>在任意目录右键鼠标打开  <code>Git Bash here</code> ，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;你的 Github 对应的邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
-<p>一直回车，然后在输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> ~/.ssh/id_rsa.pub</span><br><span class="line"><span class="comment"># 或者</span></span><br><span class="line">clip &lt; ~/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure></div>
-<p>复制输出的 <code>SSH keys</code>。</p>
-</li>
-<li><p>在Github 新建仓库，<code>Public</code>性质。返回项目，点击 <code>Setting</code> -&gt; <code>Page</code> -&gt; <code>Source</code> 选择 <code>Deploy from a branch</code> -&gt; <code>Branch</code> 选择 <code>master</code>。 点击头像，<code>Setting</code> -&gt; <code>SSH and GPG keys</code> -&gt; <code>SSH keys</code> -&gt; <code>New SSH key</code> -&gt; 起名，输入刚才复制的 <code>SSH keys</code> -&gt; <code>Add SSH key</code>。</p>
-</li>
-<li><p>返回 <code>Blog</code>，右键鼠标打开 <code>Git Bash here</code>，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></div>
-<p>若提示：</p>
-<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Are you sure you want to continue connecting (yes/no/[fingerprint])?</span><br></pre></td></tr></table></figure></div>
-<p>输入 <code>yes</code>。</p>
-</li>
-<li><p>返回 Github 仓库，点击  <code>&lt;&gt;Code</code>  ，<code>Local</code>  ，<code>SSH</code>  ，复制。</p>
-</li>
-<li><p>回到 <code>Blog</code> 下，打开里面的 <code>_config.yml</code> 文件，搜索 <code>theme:</code>，改写：</p>
-<div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">刚复制的地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line">  <span class="attr">message:</span> <span class="string">自己随便填</span></span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>回到  <code>Blog</code>  下，右键鼠标选择  <code>Git Bash here</code> ，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;名字&quot;</span></span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.email <span class="string">&quot;你的 Github 对应的邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
-
-<ol start="7">
-<li><p>安装上传插件，输入：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>回到  <code>Blog</code>  下，右键鼠标选择  <code>Git Bash here</code>  ，输入下面命令即可同步：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>【可选】在  <code>Blog</code>  下创建一个名为  <code>deploy.bat</code>  的文件，内容为：</p>
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; npm run deploy</span><br></pre></td></tr></table></figure></div>
-</li>
-<li><p>【可选】在  <code>Blog\source</code>  下创建一个名为  <code>CNAME</code>  的文件，内容为：</p>
-<div class="highlight-container" data-rel="Md"><figure class="iseeu highlight md"><table><tr><td class="code"><pre><span class="line"><span class="section"># 你个人的域名</span></span><br><span class="line"><span class="section"># 例如</span></span><br><span class="line">soilup.top</span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h1 id="利用-Obsidian-书写博客"><a href="#利用-Obsidian-书写博客" class="headerlink" title="利用 Obsidian 书写博客"></a>利用 Obsidian 书写博客</h1><ol>
-<li>在 Obsidian 里面选择   <code>打开本地仓库</code>  ，选择   <code>Blog</code>   </li>
-<li>设置 -&gt; 文件和链接 -&gt; 始终更新内部链接 -&gt; 打开</li>
-<li>设置 -&gt; 文件和链接 -&gt; 新建笔记的存放位置 -&gt; 指定的附件文件夹</li>
-<li>设置 -&gt; 文件和链接 -&gt; 内部链接类型 -&gt; 基于当前笔记的相对路径</li>
-<li>设置 -&gt; 文件和链接 -&gt; 忽略文件 -&gt;   <code>node_modules</code>  和  <code>public</code>  和  <code>scaffolds</code>  和  <code>themes</code> </li>
-<li>在  <code>source</code>  新建文件夹  <code>img</code> ，设置 -&gt; 文件和链接 -&gt; 附件默认存放路径 -&gt; 指定文件夹路径  <code>source/img</code> </li>
-<li>设置 -&gt; 模板 -&gt; 模板文件夹位置 -&gt;  <code>scaffolds</code> </li>
-<li>打开  <code>scaffolds</code>  下的  <code>page</code>  文件，设置自己的模板。<div class="highlight-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> </span><br><span class="line"><span class="attr">cover:</span> <span class="string">&#x27;https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgQuietView.png&#x27;</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure></div></li>
-</ol>
-<h1 id="其他的设置"><a href="#其他的设置" class="headerlink" title="其他的设置"></a>其他的设置</h1><ul>
-<li>查看 Hexo 的文档：<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://hexo.io/zh-cn/docs/configuration</span><br></pre></td></tr></table></figure></div></li>
-<li>查看主题作者的 <code>README.md</code> 和其他说明。</li>
-</ul>
-<h1 id="一些插件"><a href="#一些插件" class="headerlink" title="一些插件"></a>一些插件</h1><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 用于同步的</span></span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></div>
-
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 用于支持搜索的</span></span><br><span class="line">npm install hexo-generator-searchdb --save</span><br></pre></td></tr></table></figure></div>
-
-<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 解决 css 样式不加载的</span></span><br><span class="line">npm i hexo-renderer-less</span><br></pre></td></tr></table></figure></div>
-
-<h1 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h1><ul>
-<li><a class="link"   href="https://www.cnblogs.com/huanhao/p/hexobase.html" >【基础篇】hexo博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by Huanhao</li>
-<li><a class="link"   href="https://www.bilibili.com/video/BV1ts4y1h7cZ/" >【Hexo+Obsidian】Web博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by <a class="link"   href="https://space.bilibili.com/16608511" >NS巴德尔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/79E/hexo-theme-quiet" >hexo-theme-quiet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://www.bilibili.com/video/BV1DG411p7ov/" >快速搭建简约大气的个人Hexo博客（小白也可以操作）博客主题很好看 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by <a class="link"   href="https://space.bilibili.com/1931162114" >球鞋老王头 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://blog.51cto.com/u_14866376/4858965" >GitHub博客hexo建站之设置SSH 密钥（keys）(转载) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「工具」分享</title>
-    <url>/2023/06/08/Tools-nicheWebsite/</url>
-    <content><![CDATA[<ul>
-<li><a class="link"   href="https://github.com/moonD4rk/HackBrowserData" >HackBrowserData <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：浏览器数据导出工具</li>
-<li><a class="link"   href="https://squoosh.app/" >Squoosh <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：是谷歌推出的一款在线图像压缩工具</li>
-<li><a class="link"   href="https://demo.unlock-music.dev/" >移除已购音乐的加密保护 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://sorry.xuty.cc/" >在线制作sorry 为所欲为的gif <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://github.com/ovnrain/netease-music-cloud-uploader" >解决 Mac 端网易云音乐无法上传到音乐云盘问题 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://chrome.google.com/webstore/detail/exif-viewer-classic/nafpfdcmppffipmhcpkbplhkoiekndck" >EXIF Viewer Classic  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ：一款可以查看图片Exif信息的扩展插件</li>
-<li><a class="link"   href="http://abctool.info/exif-viewer/" >Abc EXIF 查看器 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：基于浏览器的 HTML5 技术，查看照片的 EXIF 信息</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>工具</tag>
-        <tag>网站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>「分享」CloudFlare优选参考</title>
-    <url>/2023/04/02/Web-CloudFlare/</url>
-    <content><![CDATA[<ul>
-<li><p>Qatar2022(SAN JOSE IP) :<br><a class="link"   href="http://www.qatar2022.qa/" >www.qatar2022.qa <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-</li>
-<li><p>IP查询 : </p>
-<ul>
-<li>ip.skk.moe</li>
-<li>ping.pe</li>
-</ul>
-</li>
-<li><p>政府网站:</p>
-<ul>
-<li>乌克兰🇺🇦政府 <a class="link"   href="http://www.gov.ua/" >www.gov.ua <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>泰国🇹🇭政府 <a class="link"   href="http://www.thaigov.go.th/" >www.thaigov.go.th <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>卡塔尔🇶🇦政府 <a class="link"   href="http://www.gco.gov.qa/" >www.gco.gov.qa <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>瑞典🇸🇪政府 <a class="link"   href="http://www.gov.se/" >www.gov.se <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>美国🇺🇸FBI: FBI.GOV</li>
-</ul>
-</li>
-</ul>
-<p>商业网站：</p>
-<ul>
-<li>CSGO官方网站</li>
-<li>(Cloudflare LONDON ASN)：</li>
-<li>CSGO.COM</li>
-</ul>
-<p>DigitalOcean<br>digitalocean.com</p>
-<p>VISA官方网站：<br>(格式： VISA.国家顶级域名)<br>VISA.COM<br>VISA.CN<br>VISA.FI<br>VISA.HK</p>
-<p>伪AMEX:<br>AMEX.COM</p>
-<p>SHOPIFY(推荐):<br>SHOPIFY.COM</p>
-<p>域名注册商：<br>Dynadot.COM</p>
-<p>其它网站(国家.com)：<br>SINGAPORE.COM<br>JAPAN.COM<br>BRAZIL.COM<br>MALAYSIA.COM<br>RUSSIA.COM</p>
-<p>其他评论区补充😘</p>
-]]></content>
+    <title>「分享」破限速锁频段</title>
+    <url>/2023/04/02/Skill-Hack-Cellular-SpeedLimit/</url>
+    <content><![CDATA[<h1 id="中国电信的4G基站是B1-x2F-B3-x2F-B5。"><a href="#中国电信的4G基站是B1-x2F-B3-x2F-B5。" class="headerlink" title="中国电信的4G基站是B1&#x2F;B3&#x2F;B5。"></a>中国电信的4G基站是B1&#x2F;B3&#x2F;B5。</h1><p>中国电信的4G基站现在分为800M&#x2F;1800M&#x2F;2100M三种。其中800M属于Band5,频谱带宽是5M,频点2452,现网最大下载速度大概在35Mbps左右;1800M属于Band3,频谱带宽15M(极少20M配置)，频点1825(1850),现网最大下载速度大概可以达到70-80Mbps左右;2100M属于Band1,频谱带宽是20M,频点100,现在最大下载速度大概在120Mbps左右。</p>
+<p>总体来看，电信下载速度最快的是Band1的4G基站。但是由于高频无线信号的绕射能力差，覆盖范围相对比较小，Band5的4G基站的深度覆盖是最好的。</p>
+<hr>
+<h1 id="中国联通的4G基站是B1-x2F-B3-x2F-B8。"><a href="#中国联通的4G基站是B1-x2F-B3-x2F-B8。" class="headerlink" title="中国联通的4G基站是B1&#x2F;B3&#x2F;B8。"></a>中国联通的4G基站是B1&#x2F;B3&#x2F;B8。</h1><p>中国联通的4G基站现在分为900M&#x2F;1800M&#x2F;2100M三种。其中900M基站现在还没有确定，可能在部分区域上3M的，也可能是上5M的,5M下载速度基本和电信的800M差别不大;联通的1800M有30M的无线频谱，有20M的1650和10M的1506 两个频点的L1800基站配置；联通的2100M部署的4G基站是20M的 频点400，或者是10M(或者15M)的375频点的LTE基站。</p>
+<p>总体上来看，电信和联通下载速度最快的是Band1的100&#x2F;400频点的LTE基站，室外路面下载最快的是联通Band3的1650频点的LTE基站(电信的1850频点的LTE基站)，其次是电信Band3的1825频点的LTE基站。至于电信的Band5基站以及联通的Band8基站，深度覆盖还不错，下载速度就不太快了</p>
+<hr>
+<h1 id="移动卡锁b1和b3即可"><a href="#移动卡锁b1和b3即可" class="headerlink" title="移动卡锁b1和b3即可"></a>移动卡锁b1和b3即可</h1><hr>
+<div class="highlight-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"><span class="string">小米手机输入</span> <span class="string">*#*#3646633##</span></span><br><span class="line"></span><br><span class="line"><span class="string">vivo手机输入</span> <span class="string">*#*#9955#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">vivo</span> <span class="string">5G版</span> <span class="string">输入</span> <span class="string">*#*#2020#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">三星手机输入</span> <span class="string">*#0011#</span></span><br><span class="line"></span><br><span class="line"><span class="number">360</span><span class="string">手机输入</span> <span class="string">*20121220#</span></span><br><span class="line"></span><br><span class="line"><span class="string">魅族手机</span> <span class="string">*#*#3838664#*#*</span></span><br><span class="line"></span><br><span class="line"><span class="string">NetworkState要输入密码的直接输入IMEI的后六位数即可（vivo）</span></span><br><span class="line"></span><br><span class="line"><span class="string">无需ROOT就可以锁频段</span></span><br><span class="line"><span class="string">注:此方法对物联卡没有任何作用!</span></span><br></pre></td></tr></table></figure></div>]]></content>
       <tags>
         <tag>分享</tag>
         <tag>网络</tag>
       </tags>
   </entry>
   <entry>
-    <title>「番剧」看番剧</title>
-    <url>/2023/04/29/Website-AnimeOnline/</url>
-    <content><![CDATA[<p><a class="link"   href="https://t.me/lihaiba/6220" >▎🌐 看动漫的在线网站推荐 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<ul>
-<li>アニメ新番組（看新番推荐）：<br><a class="link"   href="https://bangumi.online/" >https://bangumi.online/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>异世界动漫：<br><a class="link"   href="https://www.ysjdm.net/" >https://www.ysjdm.net/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>AGE动漫：<br><a class="link"   href="https://www.agemys.net/" >https://www.agemys.net/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>七色番动漫：<br><a class="link"   href="https://www.7sefun.top/" >https://www.7sefun.top/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>番茄动漫：<br><a class="link"   href="https://www.fqfun.com/" >https://www.fqfun.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>girigiri爱动漫：<br><a class="link"   href="https://anime.girigirilove.com/" >https://anime.girigirilove.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>宫下动漫：<br><a class="link"   href="https://arlnigdm.com/" >https://arlnigdm.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>萌番：<br><a class="link"   href="https://www.mfan.tv/" >https://www.mfan.tv/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>咕咕番：<br><a class="link"   href="http://www.gugufan.com/" >http://www.gugufan.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>不可视境界线：<br><a class="link"   href="https://www.invbo.ink/" >https://www.invbo.ink/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>AnFuns动漫：<br><a class="link"   href="https://www.anfuns.cc/" >https://www.anfuns.cc/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>出差屋：<br><a class="link"   href="https://www.出差.xyz/" >https://www.xn--79q440a.xyz/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Myself 動漫（720分辨率）：<br><a class="link"   href="https://myself-bbs.com/portal.php" >https://myself-bbs.com/portal.php <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>橘子动漫（部分要登录）：<br><a class="link"   href="https://www.mgnacg.com/" >https://www.mgnacg.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>巴哈姆特動畫瘋（正版，地区限制）：<br><a class="link"   href="https://ani.gamer.com.tw/" >https://ani.gamer.com.tw/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+    <title>「编程工具」辅助器和小工具</title>
+    <url>/2023/06/08/Program-helperTools/</url>
+    <content><![CDATA[<ul>
+<li><a class="link"   href="https://github.com/moul/assh" >assh (Advanced SSH Config) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 是一款高级 SSH 配置工具，旨在让 SSH 客户端更加智能。assh 与ssh、scp、rsync、git 无缝兼容，增加了对正则表达式、别名、网关、动态主机名、graphviz、JSON、YAML 的支持。</li>
+<li><a class="link"   href="https://github.com/lycheeverse/lychee" >lychee <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 一个基于Rust编写的高效死链接检查工具，可以在 Markdown、HTML、reStructuredText等文件中查找损坏的 URL 。</li>
+<li><a class="link"   href="https://github.com/moonD4rk/HackBrowserData" >HackBrowserData <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：浏览器数据导出工具，可以明文导出密码，cookie，书签和历史记录，扩展列表等。</li>
 </ul>
 ]]></content>
       <tags>
-        <tag>网站</tag>
-        <tag>番剧</tag>
+        <tag>编程</tag>
+        <tag>工具</tag>
       </tags>
   </entry>
   <entry>
@@ -2757,6 +2536,227 @@
       <tags>
         <tag>科普</tag>
         <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「教程」搭建个人博客</title>
+    <url>/2023/04/02/Teach-how-to-build-a-blog/</url>
+    <content><![CDATA[<h1 id="安装-Node-js"><a href="#安装-Node-js" class="headerlink" title="安装 Node.js"></a>安装 Node.js</h1><ol>
+<li>下载链接： <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">http://nodejs.cn/download/</span><br></pre></td></tr></table></figure></div></li>
+<li>配置环境变量。</li>
+</ol>
+<h1 id="安装-Git"><a href="#安装-Git" class="headerlink" title="安装 Git"></a>安装 Git</h1><ol>
+<li>下载链接： <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://git-scm.com/</span><br></pre></td></tr></table></figure></div></li>
+<li>检验安装： 打开桌面上的快捷方式  <code>Git Bash</code> ，顺序输入下面的命令：</li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure></div>
+
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm -v</span><br></pre></td></tr></table></figure></div>
+
+<h1 id="安装-cnpm"><a href="#安装-cnpm" class="headerlink" title="安装 cnpm"></a>安装 cnpm</h1><ol>
+<li><p>下载地址：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry=https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>检查  <code>cnpm</code>  安装：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm -v</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h1 id="安装-hexo"><a href="#安装-hexo" class="headerlink" title="安装 hexo"></a>安装 hexo</h1><ol>
+<li>下载地址：<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-cli -g</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h1 id="博客本地部署"><a href="#博客本地部署" class="headerlink" title="博客本地部署"></a>博客本地部署</h1><ol>
+<li><p>自选位置新建一个文件夹，比如  <code>Blog</code> ，右键鼠标选择  <code>Git Bash here</code> ，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>【可选】当遇到  <code>INFO Install dependencies</code>  但等待许久没有反应，按键盘  <code>Ctrl + C</code>  结束命令，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>完成后，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>鼠标选中给出的网址，然后右键鼠标 <code>Copy</code>。不能使用键盘上的 <code>Ctrl + C</code>，这会终止服务。一般可以成功打开默认主题。</p>
+</li>
+<li><p>【可选】当浏览器不能打开网址时：</p>
+<ol>
+<li>显示端口出错（选其他端口，如  <code>5000</code>  ）： <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s -p 5000</span><br></pre></td></tr></table></figure></div></li>
+<li>Windows 的功能没有开启：控制面板 -&gt; 程序 -&gt; 程序和功能 -&gt; 启用或关闭 Windows 功能 -&gt; 勾选  <code>Internet Information Services</code>  -&gt; 确定。</li>
+</ol>
+</li>
+</ol>
+<h1 id="更换主题"><a href="#更换主题" class="headerlink" title="更换主题"></a>更换主题</h1><ol>
+<li><p>打开 Hexo 主题商店：</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://hexo.io/themes/](https://hexo.io/themes/</span><br></pre></td></tr></table></figure></div>
+<p>点击主题，找到带有 <code>Github</code> 字眼的链接。</p>
+</li>
+<li><p>下载主题</p>
+<ol>
+<li>HTTPS 链接：点击  <code>&lt;&gt;Code</code>  ，  <code>Local</code>  ，  <code>HTTPS</code>  ，复制链接。回到 <code>Blog</code> 文件夹，  <code>Git Bash here</code>  ，输入 <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> 复制的地址 themes/主题名字</span><br></pre></td></tr></table></figure></div></li>
+<li>ZIP 下载：登录 Github 账号，点击  <code>&lt;&gt;Code</code>  ，  <code>Local</code>  ，  <code>Download ZIP</code>  。回到  <code>Blog</code>  下面的  <code>themes</code>  的文件夹，解压下载的 ZIP，解压后的文件夹重命名为 <code>主题名字</code>。</li>
+</ol>
+</li>
+<li><p>回到 <code>Blog\_config.yml</code> 文件，搜索 <code>theme:</code>，将后面的 <code>landspace</code> 改为你刚才重命名的 <code>主题名字</code>。</p>
+</li>
+<li><p>【可选】打开 <code>Blog\_config.yml</code> 文件，搜索 <code>theme:</code>，将后面的 <code>language:</code> 后面的 <code>en</code> 改为 <code>zh-CN</code> 即可设置为中文。</p>
+</li>
+<li><p>检验主题，回到 <code>Blog</code>，右键鼠标选择 <code>Git Bash here</code>，输入下面的命令：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo s</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>鼠标选中给出的网址，然后右键鼠标  <code>Copy</code> 。不能使用键盘上的  <code>Ctrl + C</code>  ，这会终止服务。一般可以成功打开刚安装好的主题。</p>
+</li>
+</ol>
+<h1 id="远程部署"><a href="#远程部署" class="headerlink" title="远程部署"></a>远程部署</h1><ol>
+<li><p>在任意目录右键鼠标打开  <code>Git Bash here</code> ，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;你的 Github 对应的邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
+<p>一直回车，然后在输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cat</span> ~/.ssh/id_rsa.pub</span><br><span class="line"><span class="comment"># 或者</span></span><br><span class="line">clip &lt; ~/.ssh/id_rsa.pub</span><br></pre></td></tr></table></figure></div>
+<p>复制输出的 <code>SSH keys</code>。</p>
+</li>
+<li><p>在Github 新建仓库，<code>Public</code>性质。返回项目，点击 <code>Setting</code> -&gt; <code>Page</code> -&gt; <code>Source</code> 选择 <code>Deploy from a branch</code> -&gt; <code>Branch</code> 选择 <code>master</code>。 点击头像，<code>Setting</code> -&gt; <code>SSH and GPG keys</code> -&gt; <code>SSH keys</code> -&gt; <code>New SSH key</code> -&gt; 起名，输入刚才复制的 <code>SSH keys</code> -&gt; <code>Add SSH key</code>。</p>
+</li>
+<li><p>返回 <code>Blog</code>，右键鼠标打开 <code>Git Bash here</code>，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></div>
+<p>若提示：</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">Are you sure you want to continue connecting (yes/no/[fingerprint])?</span><br></pre></td></tr></table></figure></div>
+<p>输入 <code>yes</code>。</p>
+</li>
+<li><p>返回 Github 仓库，点击  <code>&lt;&gt;Code</code>  ，<code>Local</code>  ，<code>SSH</code>  ，复制。</p>
+</li>
+<li><p>回到 <code>Blog</code> 下，打开里面的 <code>_config.yml</code> 文件，搜索 <code>theme:</code>，改写：</p>
+<div class="highlight-container" data-rel="Yml"><figure class="iseeu highlight yml"><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">git</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">刚复制的地址</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line">  <span class="attr">message:</span> <span class="string">自己随便填</span></span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>回到  <code>Blog</code>  下，右键鼠标选择  <code>Git Bash here</code> ，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;名字&quot;</span></span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global user.email <span class="string">&quot;你的 Github 对应的邮箱&quot;</span></span><br></pre></td></tr></table></figure></div>
+
+<ol start="7">
+<li><p>安装上传插件，输入：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">cnpm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>回到  <code>Blog</code>  下，右键鼠标选择  <code>Git Bash here</code>  ，输入下面命令即可同步：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo g -d</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>【可选】在  <code>Blog</code>  下创建一个名为  <code>deploy.bat</code>  的文件，内容为：</p>
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; npm run deploy</span><br></pre></td></tr></table></figure></div>
+</li>
+<li><p>【可选】在  <code>Blog\source</code>  下创建一个名为  <code>CNAME</code>  的文件，内容为：</p>
+<div class="highlight-container" data-rel="Md"><figure class="iseeu highlight md"><table><tr><td class="code"><pre><span class="line"><span class="section"># 你个人的域名</span></span><br><span class="line"><span class="section"># 例如</span></span><br><span class="line">soilup.top</span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h1 id="利用-Obsidian-书写博客"><a href="#利用-Obsidian-书写博客" class="headerlink" title="利用 Obsidian 书写博客"></a>利用 Obsidian 书写博客</h1><ol>
+<li>在 Obsidian 里面选择   <code>打开本地仓库</code>  ，选择   <code>Blog</code>   </li>
+<li>设置 -&gt; 文件和链接 -&gt; 始终更新内部链接 -&gt; 打开</li>
+<li>设置 -&gt; 文件和链接 -&gt; 新建笔记的存放位置 -&gt; 指定的附件文件夹</li>
+<li>设置 -&gt; 文件和链接 -&gt; 内部链接类型 -&gt; 基于当前笔记的相对路径</li>
+<li>设置 -&gt; 文件和链接 -&gt; 忽略文件 -&gt;   <code>node_modules</code>  和  <code>public</code>  和  <code>scaffolds</code>  和  <code>themes</code> </li>
+<li>在  <code>source</code>  新建文件夹  <code>img</code> ，设置 -&gt; 文件和链接 -&gt; 附件默认存放路径 -&gt; 指定文件夹路径  <code>source/img</code> </li>
+<li>设置 -&gt; 模板 -&gt; 模板文件夹位置 -&gt;  <code>scaffolds</code> </li>
+<li>打开  <code>scaffolds</code>  下的  <code>page</code>  文件，设置自己的模板。<div class="highlight-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="meta">---</span></span><br><span class="line"><span class="attr">title:</span> </span><br><span class="line"><span class="attr">cover:</span> <span class="string">&#x27;https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgQuietView.png&#x27;</span></span><br><span class="line"><span class="meta">---</span></span><br></pre></td></tr></table></figure></div></li>
+</ol>
+<h1 id="其他的设置"><a href="#其他的设置" class="headerlink" title="其他的设置"></a>其他的设置</h1><ul>
+<li>查看 Hexo 的文档：<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://hexo.io/zh-cn/docs/configuration</span><br></pre></td></tr></table></figure></div></li>
+<li>查看主题作者的 <code>README.md</code> 和其他说明。</li>
+</ul>
+<h1 id="一些插件"><a href="#一些插件" class="headerlink" title="一些插件"></a>一些插件</h1><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 用于同步的</span></span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></div>
+
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 用于支持搜索的</span></span><br><span class="line">npm install hexo-generator-searchdb --save</span><br></pre></td></tr></table></figure></div>
+
+<div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="comment"># 解决 css 样式不加载的</span></span><br><span class="line">npm i hexo-renderer-less</span><br></pre></td></tr></table></figure></div>
+
+<h1 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h1><ul>
+<li><a class="link"   href="https://www.cnblogs.com/huanhao/p/hexobase.html" >【基础篇】hexo博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by Huanhao</li>
+<li><a class="link"   href="https://www.bilibili.com/video/BV1ts4y1h7cZ/" >【Hexo+Obsidian】Web博客搭建教程 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by <a class="link"   href="https://space.bilibili.com/16608511" >NS巴德尔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/79E/hexo-theme-quiet" >hexo-theme-quiet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://www.bilibili.com/video/BV1DG411p7ov/" >快速搭建简约大气的个人Hexo博客（小白也可以操作）博客主题很好看 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，by <a class="link"   href="https://space.bilibili.com/1931162114" >球鞋老王头 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://blog.51cto.com/u_14866376/4858965" >GitHub博客hexo建站之设置SSH 密钥（keys）(转载) <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「分享」CloudFlare优选参考</title>
+    <url>/2023/04/02/Web-CloudFlare/</url>
+    <content><![CDATA[<ul>
+<li><p>Qatar2022(SAN JOSE IP) :<br><a class="link"   href="http://www.qatar2022.qa/" >www.qatar2022.qa <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</li>
+<li><p>IP查询 : </p>
+<ul>
+<li>ip.skk.moe</li>
+<li>ping.pe</li>
+</ul>
+</li>
+<li><p>政府网站:</p>
+<ul>
+<li>乌克兰🇺🇦政府 <a class="link"   href="http://www.gov.ua/" >www.gov.ua <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>泰国🇹🇭政府 <a class="link"   href="http://www.thaigov.go.th/" >www.thaigov.go.th <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>卡塔尔🇶🇦政府 <a class="link"   href="http://www.gco.gov.qa/" >www.gco.gov.qa <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>瑞典🇸🇪政府 <a class="link"   href="http://www.gov.se/" >www.gov.se <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>美国🇺🇸FBI: FBI.GOV</li>
+</ul>
+</li>
+</ul>
+<p>商业网站：</p>
+<ul>
+<li>CSGO官方网站</li>
+<li>(Cloudflare LONDON ASN)：</li>
+<li>CSGO.COM</li>
+</ul>
+<p>DigitalOcean<br>digitalocean.com</p>
+<p>VISA官方网站：<br>(格式： VISA.国家顶级域名)<br>VISA.COM<br>VISA.CN<br>VISA.FI<br>VISA.HK</p>
+<p>伪AMEX:<br>AMEX.COM</p>
+<p>SHOPIFY(推荐):<br>SHOPIFY.COM</p>
+<p>域名注册商：<br>Dynadot.COM</p>
+<p>其它网站(国家.com)：<br>SINGAPORE.COM<br>JAPAN.COM<br>BRAZIL.COM<br>MALAYSIA.COM<br>RUSSIA.COM</p>
+<p>其他评论区补充😘</p>
+]]></content>
+      <tags>
+        <tag>分享</tag>
+        <tag>网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「工具」分享</title>
+    <url>/2023/06/08/Tools-nicheWebsite/</url>
+    <content><![CDATA[<ul>
+<li><a class="link"   href="https://github.com/moonD4rk/HackBrowserData" >HackBrowserData <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：浏览器数据导出工具</li>
+<li><a class="link"   href="https://squoosh.app/" >Squoosh <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：是谷歌推出的一款在线图像压缩工具</li>
+<li><a class="link"   href="https://demo.unlock-music.dev/" >移除已购音乐的加密保护 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://sorry.xuty.cc/" >在线制作sorry 为所欲为的gif <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://github.com/ovnrain/netease-music-cloud-uploader" >解决 Mac 端网易云音乐无法上传到音乐云盘问题 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://chrome.google.com/webstore/detail/exif-viewer-classic/nafpfdcmppffipmhcpkbplhkoiekndck" >EXIF Viewer Classic  <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ：一款可以查看图片Exif信息的扩展插件</li>
+<li><a class="link"   href="http://abctool.info/exif-viewer/" >Abc EXIF 查看器 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：基于浏览器的 HTML5 技术，查看照片的 EXIF 信息</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>工具</tag>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「番剧」看番剧</title>
+    <url>/2023/04/29/Website-AnimeOnline/</url>
+    <content><![CDATA[<p><a class="link"   href="https://t.me/lihaiba/6220" >▎🌐 看动漫的在线网站推荐 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<ul>
+<li>アニメ新番組（看新番推荐）：<br><a class="link"   href="https://bangumi.online/" >https://bangumi.online/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>异世界动漫：<br><a class="link"   href="https://www.ysjdm.net/" >https://www.ysjdm.net/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>AGE动漫：<br><a class="link"   href="https://www.agemys.net/" >https://www.agemys.net/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>七色番动漫：<br><a class="link"   href="https://www.7sefun.top/" >https://www.7sefun.top/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>番茄动漫：<br><a class="link"   href="https://www.fqfun.com/" >https://www.fqfun.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>girigiri爱动漫：<br><a class="link"   href="https://anime.girigirilove.com/" >https://anime.girigirilove.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>宫下动漫：<br><a class="link"   href="https://arlnigdm.com/" >https://arlnigdm.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>萌番：<br><a class="link"   href="https://www.mfan.tv/" >https://www.mfan.tv/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>咕咕番：<br><a class="link"   href="http://www.gugufan.com/" >http://www.gugufan.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>不可视境界线：<br><a class="link"   href="https://www.invbo.ink/" >https://www.invbo.ink/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>AnFuns动漫：<br><a class="link"   href="https://www.anfuns.cc/" >https://www.anfuns.cc/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>出差屋：<br><a class="link"   href="https://www.出差.xyz/" >https://www.xn--79q440a.xyz/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>Myself 動漫（720分辨率）：<br><a class="link"   href="https://myself-bbs.com/portal.php" >https://myself-bbs.com/portal.php <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>橘子动漫（部分要登录）：<br><a class="link"   href="https://www.mgnacg.com/" >https://www.mgnacg.com/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li>巴哈姆特動畫瘋（正版，地区限制）：<br><a class="link"   href="https://ani.gamer.com.tw/" >https://ani.gamer.com.tw/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>网站</tag>
+        <tag>番剧</tag>
       </tags>
   </entry>
 </search>
